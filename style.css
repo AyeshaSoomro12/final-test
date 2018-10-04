@@ -1,0 +1,53 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+}
+
+img{
+    margin: 5px;
+}
+
+#navbarNav{
+    background-color:#494949; 
+    padding: 0px;
+    justify-content: flex-end;
+
+}
+.my-navigat{
+    background-color:#494949;
+}
+li{
+    color: #b2b0a7;
+    font-family: 'Asap', sans-serif;
+}
+#logo{
+    color: #d44e5e;
+    text-align: center;
+    font-weight: bold;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+}
+.card-one{
+    width: 60%;
+
+}
+.card-two{
+    width: 40%;
+
+
+}
+i,.techkaro{
+    color: #5ea32a;
+}
+.content-center{
+   
+}
